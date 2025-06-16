@@ -1,3 +1,3 @@
 Live Demo
 
-pizzaresturant06.netlify.app
+https://pizzaresturant06.netlify.app
