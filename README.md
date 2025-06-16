@@ -1,3 +1,3 @@
 Live Demo
 
-https://rishitgoyal06.github.io/Pizza-Website/
+pizzaresturant06.netlify.app
